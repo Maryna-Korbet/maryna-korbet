@@ -1,20 +1,9 @@
-# Maryna's GitHub Profile
-![Profile Photo]([https://example.com/your-photo.jpg](https://www.flickr.com/photos/201197799@N08/53898900140/in/dateposted-public/))
-
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/maryna-korbet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryna-korbet)
-
-<!--
-**Maryna-Korbet/maryna-korbet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td><img src="https://www.flickr.com/photos/201197799@N08/53898900140/in/dateposted-public/" alt="Profile image" width="150"/></td>
+    <td>
+      # Maryna's GitHub Profile
+      [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryna-korbet)
+    </td>
+  </tr>
+</table>
