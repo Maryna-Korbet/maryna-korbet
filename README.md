@@ -1,9 +1,11 @@
-<table>
-  <tr>
-    <td><img src="https://www.flickr.com/photos/201197799@N08/53898900140/in/dateposted-public/" alt="Profile image" width="150"/></td>
-    <td>
-      # Maryna's GitHub Profile
-      [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryna-korbet)
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+ <img src="./images/profile-image.jpg" alt="Profile image" width="150" style="margin-right: 20px;"/>
+ <h1>Maryna's GitHub Profile</h1> 
+ </div>
+
+## How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryna-korbet)
+
+**Email:** korbet.maryna.developer@gmail.com  
+**Telegram:** [@maryna_dev](https://t.me/maryna_dev)
