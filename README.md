@@ -1,4 +1,8 @@
-## Hi there 👋
+# Maryna's GitHub Profile
+![Profile Photo]([https://example.com/your-photo.jpg](https://www.flickr.com/photos/201197799@N08/53898900140/in/dateposted-public/))
+
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/maryna-korbet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryna-korbet)
 
 <!--
 **Maryna-Korbet/maryna-korbet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
