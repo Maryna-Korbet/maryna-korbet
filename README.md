@@ -3,7 +3,7 @@
  <h1>Maryna's GitHub Profile</h1> 
  </div>
 
-## How to Reach Me
+## I'm not afraid of difficulties - I use them as stepping stones on the way to perfection.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryna-korbet)
 
