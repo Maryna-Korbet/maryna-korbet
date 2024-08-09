@@ -11,3 +11,9 @@
 
 **Email:** korbet.maryna.developer@gmail.com  
 **Telegram:** [@maryna_dev](https://t.me/maryna_dev)
+
+## 📈 My certificates
+
+### Full-stack development 
+[View PDF](https://drive.google.com/file/d/1PpcL3swBuMmHbz5jVImH56rRCSVCwECe/view?usp=sharing)
+ 
