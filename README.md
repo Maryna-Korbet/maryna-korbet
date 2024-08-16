@@ -20,3 +20,7 @@
 
 ### Node JS: API Development with Swagger 
 [View PDF](https://drive.google.com/file/d/1SiExlG4Iioo24NrqB94numGbGkM2nVKT/view?usp=sharing)
+
+### My second repository that I use for training 
+https://github.com/KorbetMaryna
+
