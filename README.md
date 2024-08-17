@@ -10,7 +10,7 @@
 **Email:** korbet.maryna.developer@gmail.com  
 **Telegram:** [@maryna_dev](https://t.me/maryna_dev)
 
-[Welcome to my world!](./video/my_world.mp4)
+[![My View of the World: From Code to Reality](https://youtu.be/1qxjDujl7fo/0.jpg)](https://youtu.be/1qxjDujl7fo)
 
 ## 📈 My certificates
 
@@ -26,6 +26,4 @@
 
 [View PDF](https://drive.google.com/file/d/1SiExlG4Iioo24NrqB94numGbGkM2nVKT/view?usp=sharing)
 
-### My second repository that I use for training
-
-https://github.com/KorbetMaryna
+### [My second repository that I use for training](https://github.com/KorbetMaryna)
