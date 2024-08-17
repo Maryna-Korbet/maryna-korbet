@@ -10,17 +10,22 @@
 **Email:** korbet.maryna.developer@gmail.com  
 **Telegram:** [@maryna_dev](https://t.me/maryna_dev)
 
+[Welcome to my world!](./video/my_world.mp4)
+
 ## 📈 My certificates
 
-### Full-stack development 
+### Full-stack development
+
 [View PDF](https://drive.google.com/file/d/1PpcL3swBuMmHbz5jVImH56rRCSVCwECe/view?usp=sharing)
- 
-### React advanced 
+
+### React advanced
+
 [View PDF](https://drive.google.com/file/d/1bf8Sks0uCWVe_3lKc5IqAM8YSa_Tt0d5/view?usp=sharing)
 
-### Node JS: API Development with Swagger 
+### Node JS: API Development with Swagger
+
 [View PDF](https://drive.google.com/file/d/1SiExlG4Iioo24NrqB94numGbGkM2nVKT/view?usp=sharing)
 
-### My second repository that I use for training 
-https://github.com/KorbetMaryna
+### My second repository that I use for training
 
+https://github.com/KorbetMaryna
