@@ -10,8 +10,6 @@
 **Email:** korbet.dev@gmail.com  
 **Telegram:** [@maryna_dev](https://t.me/maryna_dev)
 
-[![My View of the World: From Code to Reality](https://youtu.be/1qxjDujl7fo/0.jpg)](https://youtu.be/1qxjDujl7fo)
-
 ## 🛠️ My skills
 
 - **Languages**:
