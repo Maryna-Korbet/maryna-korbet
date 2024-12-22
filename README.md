@@ -7,7 +7,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryna-korbet)
 
-**Email:** korbet.dev@gmail.com  
+**Email:** korbet.dev@gmail.com
+
 **Telegram:** [@maryna_dev](https://t.me/maryna_dev)
 
 ## 🛠️ My skills
