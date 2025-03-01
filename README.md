@@ -39,6 +39,7 @@
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23373737.svg?style=flat&logo=postgresql&logoColor=white)
   - ![MariaDB](https://img.shields.io/badge/MariaDB-%23172A4F.svg?style=flat&logo=mariadb&logoColor=white)
   - ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+  - ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=white)
 
 - **API and Tools**:
 
